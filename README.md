@@ -2,6 +2,10 @@
 
 This example calls our [ezCater Listings Scraper](https://apify.com/piotrv1001/ezcater-listings-scraper) on Apify. It does not implement a scraper from scratch.
 
+![Twelve Boston caterers with ratings, delivery fees, and minimums](./ezcater_results.png)
+
+This is a larger Boston run; the code below requests three caterers with full menus.
+
 ## What this example does
 
 - Searches for three delivery caterers serving Boston
@@ -83,6 +87,7 @@ items.forEach((item) => {
 ## Related resources
 
 - [How to compare ezCater menus and delivery costs](https://www.falconscrape.com/blog/how-to-compare-ezcater-menus-and-delivery-costs)
+- [Companion post hero artwork](./ezcater_blog.png)
 
 ## License
 
