@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Flour Bakery",
+    "url": "https://www.ezcater.com/catering/flour-bakery-boston-3",
+    "starRating": 4.9,
+    "reviewCount": 273,
+    "deliveryFee": 30,
+    "deliveryMinimum": 150,
+    "menuItemCount": 21,
+    "menu": [
+      {
+        "category": "Rise & Dine",
+        "items": [
+          {
+            "name": "Fruit Bowl",
+            "prices": [{ "size": "1", "price": 80 }],
+            "isVegetarian": true,
+            "isGlutenFree": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tatte Bakery & Cafe",
+    "url": "https://www.ezcater.com/catering/tatte-bakery-and-cafe-3",
+    "starRating": 4.9,
+    "reviewCount": 1574,
+    "deliveryFee": 30,
+    "deliveryMinimum": 100,
+    "menuItemCount": 96
+  }
+]
